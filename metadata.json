@@ -1,0 +1,6 @@
+{
+  "name": "ClassicCinema",
+  "description": "روائع السينما الكلاسيكية - A premium classic movie streaming platform showcasing Arab and International golden age masterpieces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
